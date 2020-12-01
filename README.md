@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Devcamp Portfolio Application 
+=======
+# DevcampPortfolioApplication
+>>>>>>> f45d66a0dc2ae954fcdd863e2b5ebbe9e4fd4dae
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
